@@ -1,0 +1,9 @@
+E:\Championship\Championship\bin\Debug\Championship.exe.config
+E:\Championship\Championship\bin\Debug\Championship.exe
+E:\Championship\Championship\bin\Debug\Championship.pdb
+E:\Championship\Championship\obj\Debug\Championship.csprojResolveAssemblyReference.cache
+E:\Championship\Championship\obj\Debug\Championship.Form1.resources
+E:\Championship\Championship\obj\Debug\Championship.Properties.Resources.resources
+E:\Championship\Championship\obj\Debug\Championship.csproj.GenerateResource.Cache
+E:\Championship\Championship\obj\Debug\Championship.exe
+E:\Championship\Championship\obj\Debug\Championship.pdb
