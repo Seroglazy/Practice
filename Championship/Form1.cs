@@ -26,6 +26,8 @@ bool flag = true;
     private void button1_Click(object sender, EventArgs e)
     {
 //запись адреса и порта
+//в браузере для проверки открыть localhost с портом 8080 http://127.0.0.1:8080
+//для доступа к серверу с другого устройства - ip сервера + порт 8080
         string uri = @"http://+:8080/";
         StartServer(uri);
     }
